@@ -1,0 +1,6 @@
+16 | Jessica | Easy
+18 | Aidan | Easy
+22 | Jake | Easy
+24 | Wayne | Easy
+27 | Phoebe | Medium
+28 | Abigail | Medium
