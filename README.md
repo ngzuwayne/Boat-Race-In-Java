@@ -1,4 +1,4 @@
-# Boat Race in Java (Snakes and Ladders) 
+# Boat Race in Java
 
 This was a university project I completed in my first year, circa August 2023. 
 
