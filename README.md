@@ -1,1 +1,1 @@
-# BoatRaceInJava
+# Boat Race In Java
